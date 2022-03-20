@@ -1,1 +1,2 @@
-![Pavithran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavithranChelliahpillai&theme=dark)
+![Pavithran's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavithranChelliahpillai&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavithranChelliahpillai&theme=tokyonight)
