@@ -1,4 +1,4 @@
-## Hey! I'm Pavithran.<br>![](https://visitor-badge.laobi.icu/badge?page_id=PavithranChelliahpillai.PavithranChelliahpillai)
+## Hey! I'm Pavithran<br>![](https://visitor-badge.laobi.icu/badge?page_id=PavithranChelliahpillai.PavithranChelliahpillai)
 
 <p align="left">
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithranChelliahpillai&theme=algolia&layout=compact&bg_color=0a0a0a&title_color=ffffff"/>
