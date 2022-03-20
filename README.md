@@ -25,7 +25,8 @@
 ## About me
 I'm Pavithran Chelliahpillai, a competitive programming enthusiast and a full stack developer. One of the things I enjoy most
 is web scraping to do things better than a human or simplifying tasks. Feel free to check my repos for something interesting!
-I am also an avid competitive programmer and I program in C++. Take a look at my competitive programming solutions on DMOJ, or
+I am also an avid competitive programmer and I program in C++. Take a look at my competitive programming solutions in my competitive
+programming repo, or
 check my DMOJ accounts (yes, that's plural) directly here: <br>
 <p align="center">https://dmoj.ca/user/poly14/solved &nbsp &nbsp &nbsp https://dmoj.ca/user/pCode14/solved</p>
 
