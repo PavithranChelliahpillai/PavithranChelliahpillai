@@ -6,7 +6,7 @@
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithranChelliahpillai&theme=algolia&layout=compact&bg_color=0a0a0a&title_color=ffffff"/>
 </p>
 
-<h4 align="center">My languages and skills</h4>s
+<h4 align="center">My languages and skills</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
