@@ -1,6 +1,6 @@
 ## Hey! I'm Pavithran<br>![](https://visitor-badge.laobi.icu/badge?page_id=PavithranChelliahpillai.PavithranChelliahpillai)
 
-## Check out my site here! https://pchelliahpillai.com/
+## Check out my site here: https://www.pchelliahpillai.com/
 
 <p align="left">
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithranChelliahpillai&theme=algolia&layout=compact&bg_color=0a0a0a&title_color=ffffff"/>
@@ -23,25 +23,3 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 <br>
-
-## About me
-I'm Pavithran Chelliahpillai, a competitive programming enthusiast and a full stack developer. One of the things I enjoy most
-is web scraping to do things better than a human or simplifying tasks. Feel free to check my repos for something interesting!
-I am also an avid competitive programmer and I program in C++. Take a look at my competitive programming solutions in my competitive
-programming repo, or
-check my DMOJ accounts (yes, that's plural) directly here: <br>
-<p align="center">https://dmoj.ca/user/poly14/solved &nbsp &nbsp &nbsp https://dmoj.ca/user/pCode14/solved</p>
-
-## Webscraping projects
-<ul>
-  <li>Fast MonkeyType</li>
-  <li>Fast clicking</li>
-  <li>Scraping stock data and charting it</li>
-  <li>Autonomously pushing DMOJ submissions into my repo</li>
-</ul>
-
-## Full stack projects
-<ul>
-  <li>CleanNotes</li>
-  <li>More to come soon - working on a project now</li>
-</ul>
